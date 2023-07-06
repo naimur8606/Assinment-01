@@ -10,6 +10,9 @@ header{
     background-repeat: no-repeat;
     background-position: bottom right, left;
 }
+.header-text{
+    margin-top: 100px;
+}
 .word-of-name{
     color: rgb(249, 120, 15);
 }
