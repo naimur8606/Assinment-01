@@ -121,19 +121,21 @@ a{
 }
 .resume{
     margin: 120px 50px;
+    text-align: center;
 }
 .resume-heading{
     font-weight: 700;
     font-size: 30px;
+    text-align: left;
 }
 .resume-title{
-    text-align: center;
     margin-bottom: 50px;
     font-weight: 700;
     font-size: 35px;
 }
 .resume-itme{
     padding: 15px 30px;
+    text-align: left;
 }
 .resume-itme-title{
     font-weight: 700;
@@ -148,4 +150,23 @@ a{
 }
 .resume-discription{
     color: #757575;
+}
+.contact{
+    display: flex;
+    margin: 120px 84px;
+    padding: 120px 160px;
+    background-color: #FFF8F3;
+}
+.contact-section{
+    padding: 20px;
+}
+.icons{
+    margin: 0 5px;
+}
+input,textarea{
+    font-size: 32px;
+    border: none;
+    margin-bottom: 10px;
+    width: 300px;
+    padding: 10px;
 }
